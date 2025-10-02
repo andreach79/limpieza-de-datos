@@ -1,6 +1,6 @@
-# Limpieza de datos
+# Notebooks en analisis de datos
 
-Estamos haciendo una prueba de github.
+En este repositorio dejaré varios notebooks de mis trabajos.
 
 
 
